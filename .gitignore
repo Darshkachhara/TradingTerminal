@@ -1,3 +1,32 @@
+# macOS metadata
+.DS_Store
+
+# PyCharm project files
+.idea/
+
+# Environment secrets
+*.env
+
+# Data files (optional)
+data/**/*.txt
+data/**/*.csv
+
+# CSV data files
+*.csv
+
+# Environment files
+.env
+.env.*
+
+# SQLite or local DB
+*.sqlite
+*.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

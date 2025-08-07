@@ -1,0 +1,4 @@
+./dist/NorenRestApi-0.0.28-py2.py3-none-any.whl
+kiteconnect>=5.0.1
+python-dotenv>=1.1.1
+
